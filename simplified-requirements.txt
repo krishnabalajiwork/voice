@@ -1,0 +1,8 @@
+# Simplified Requirements for Voice Cloning App
+# No Spleeter, TensorFlow, or complex dependencies
+
+streamlit
+librosa
+soundfile
+streamlit-mic-recorder
+numpy
