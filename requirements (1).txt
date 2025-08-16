@@ -1,0 +1,21 @@
+# Requirements for Singing Voice Cloning App
+streamlit==1.28.0
+spleeter==2.3.2
+librosa==0.10.1
+soundfile==0.12.1
+streamlit-mic-recorder==0.0.5
+numpy==1.24.3
+scipy==1.11.2
+tensorflow==2.13.0
+pandas==2.0.3
+pathlib2==2.3.7
+
+# Optional: For advanced voice cloning models
+# torch==2.0.1
+# torchaudio==2.0.2
+# torchvision==0.15.2
+# so-vits-svc==4.1.1
+
+# System dependencies (install separately):
+# ffmpeg
+# libsndfile
