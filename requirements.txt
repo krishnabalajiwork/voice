@@ -1,8 +1,9 @@
-# Simplified Requirements for Voice Cloning App
-# No Spleeter, TensorFlow, or complex dependencies
+# Enhanced Requirements for Real Voice Cloning
+# Includes scipy for signal processing
 
 streamlit
 librosa
 soundfile
 streamlit-mic-recorder
 numpy
+scipy
