@@ -1,9 +1,0 @@
-streamlit
-spleeter==2.3.2
-librosa
-soundfile
-streamlit-mic-recorder
-numpy
-scipy
-pandas==1.5.3           # Use pandas <2.0 for spleeter compatibility
-pathlib2
