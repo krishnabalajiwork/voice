@@ -1,9 +1,10 @@
-# Enhanced Requirements for Real Voice Cloning
-# Includes scipy for signal processing
+# Requirements for Advanced Voice Morphing App
+# Free-tier compatible with WORLD vocoder and mel-cepstral analysis
 
 streamlit
 librosa
 soundfile
 streamlit-mic-recorder
 numpy
-scipy
+pyworld
+pysptk
