@@ -1,6 +1,5 @@
-# Requirements for Advanced Voice Morphing App
-# Free-tier compatible with WORLD vocoder and mel-cepstral analysis
-
+# After
+setuptools
 streamlit
 librosa
 soundfile
